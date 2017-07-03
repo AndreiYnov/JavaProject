@@ -17,11 +17,8 @@ public class essai {
 			System.out.println("a est égale à " + a);
 		    System.out.println("a est superieur à 10");	    
 		}
-<<<<<<< HEAD
+<<<<<<< HEADpop
 
-=======
-jesuisnohomo
->>>>>>> c882aa7a3fc13c278bbf755349b11b2ae530a403
 
 	}
 
